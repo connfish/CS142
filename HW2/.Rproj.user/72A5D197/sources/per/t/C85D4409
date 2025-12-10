@@ -1,26 +1,26 @@
 {
-    "id": "4ED2CD5C",
-    "path": "~/Data 101/HW2/HW2.R",
-    "project_path": "HW2.R",
+    "id": "C85D4409",
+    "path": "~/Data 101/HW3/cjf192_HW3.R",
+    "project_path": null,
     "type": "r_source",
-    "hash": "0",
+    "hash": "954603539",
     "contents": "",
-    "dirty": true,
-    "created": 1760459166319.0,
+    "dirty": false,
+    "created": 1764549172462.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "50,37",
-        "scrollLine": "27"
+        "cursorPosition": "17,29",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1760497097,
+    "lastKnownWriteTime": 1764564284,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1760584217567,
+    "last_content_update": 1764564284715,
     "read_only": false,
     "read_only_alternatives": []
 }
